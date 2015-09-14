@@ -1,3 +1,6 @@
+# This version is a heavily degraded and beaten fork that is only here for reference. Do not even attempt using it.
+
+
 # Spree Variant Options [![Build Status](https://secure.travis-ci.org/citrus/spree_variant_options.png)](http://travis-ci.org/citrus/spree_variant_options)
 
 
